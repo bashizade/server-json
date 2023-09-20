@@ -1,10 +1,10 @@
 {
-    "posts": [],
-    "categories": [],
-    "comments": [],
-    "products": [],
-    "cart": [],
-    "invoices": [],
-    "payments": [],
-    "users": []
+  "posts": [],
+  "categories": [],
+  "comments": [],
+  "products": [],
+  "cart": [],
+  "invoices": [],
+  "payments": [],
+  "users": []
 }
